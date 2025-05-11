@@ -25,3 +25,6 @@ No installation is required. Simply download the project files and open `index.h
 ## Credits
 This game is a fun adaptation of the classic Flappy Bird, featuring Mario as the character. Enjoy playing!
 
+## Copilot Script
+
+@workspace /new criar jogo flapbird usando imagem do Mario Bross no lugar do peixe. Utilize html, css, javascript, canva.
